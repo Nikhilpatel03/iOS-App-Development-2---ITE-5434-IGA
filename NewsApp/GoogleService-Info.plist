@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121442747849-lmgqmojepb810qe1m5me6jplj0jgia2s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121442747849-lmgqmojepb810qe1m5me6jplj0jgia2s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_sY1irOxRcYCxaOm0V5gLQqcIb-9CdFg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121442747849</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nikhil.org.NewsApp</string>
+	<key>PROJECT_ID</key>
+	<string>newsapplication-18f70</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapplication-18f70.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121442747849:ios:0c9a4e187ec8c7d5cbd418</string>
+</dict>
+</plist>
